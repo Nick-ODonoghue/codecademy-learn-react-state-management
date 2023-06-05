@@ -1,6 +1,6 @@
 <h1 align="center">My Notes - Codecademy Learn React: State Management | NickOD.xyz</h1>
 
-[Certificate of Completion]()
+[Certificate of Completion](./assets/images/Codecademy%20-%20Learn%20React%20State%20Management%20Course.jpg)
 
 <br>
 
@@ -14,13 +14,7 @@ This is a collection of all my notes taken whilst going through the Codecademy c
 
 ## Link to Live Site of Notes
 
-[Notes in HTML with Screenshots]()
-
-<br>
-
-## Sticking Points & What I learned
-
-...
+[Notes in HTML with Screenshots](https://nick-odonoghue.github.io/codecademy-learn-react-state-management/)
 
 <br>
 
@@ -33,7 +27,7 @@ This is a collection of all my notes taken whilst going through the Codecademy c
 
 ## Useful Resources
 
-...
+[Codecademy - React State Management Cheatcheet](https://www.codecademy.com/learn/learn-react-state-management/modules/learn-react-stateless-inherit-stateful/cheatsheet)
 
 <br>
 
