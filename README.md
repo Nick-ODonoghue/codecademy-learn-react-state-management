@@ -1,6 +1,6 @@
 <h1 align="center">My Notes - Codecademy Learn React: State Management | NickOD.xyz</h1>
 
-[Certificate of Completion](./assets/images/Codecademy%20-%20Learn%20React%20State%20Management%20Course.jpg)
+![Certificate of Completion](./assets/images/Codecademy%20-%20Learn%20React%20State%20Management%20Course.jpg)
 
 <br>
 
