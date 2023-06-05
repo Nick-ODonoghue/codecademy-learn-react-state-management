@@ -61,8 +61,8 @@
           necessary props to it.</li>
         <li>Even though a presentational component doesn't maintain state, it can still be reactive. Changes in props
           can trigger a re-rendering of the JSX.</li>
-        <img src="" alt="presentational component">
-        <img src="" alt="container component">
+        <img src="./assets/images/presentationalComponent.jpg" alt="presentational component">
+        <img src="./assets/images/containerComponent.jpg" alt="container component">
         <li>In the example provided, the presentational component is exported and imported by the container component,
           which is responsible for rendering it.</li>
       </ul>
@@ -73,12 +73,12 @@
       <ul>
         <li>Presentational components communicate changes to container components by invoking a change handler function
           passed to them as a prop.</li>
-        <img src="" alt="incorrect update of props">
+        <img src="./assets/images/incorrectPropsUpdate.jpg" alt="incorrect update of props">
         <li>Components should never directly update their props, as React functional components should be pure
           functions.</li>
         <li>The container component defines and provides the change handler function to the presentational component
           through a prop.</li>
-        <img src="" alt="correct update of props">
+        <img src="./assets/images/correctPropsUpdate.jpg" alt="correct update of props">
         <li>In the example provided, the Container component maintains the isActive state and passes the setIsActive
           function to the Presentational component through the toggle prop.</li>
         <li>When the Presentational component needs to communicate a change to the active prop, it calls the function
